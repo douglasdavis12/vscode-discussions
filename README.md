@@ -1,3 +1,4 @@
+#sudo su 
 ## Visual Studio Code Community Discussions
 
 Community discussions is the place to discuss VS Code's extension platform, ask questions, help other members of the community, and get answers.
